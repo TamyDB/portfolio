@@ -5,6 +5,7 @@ const estiloGlobal = createGlobalStyle`
     margin: 0;
     padding: 0;
     font-family: 'Intel', sans-serif;
+    list-style: none;
   }
 
   body {
